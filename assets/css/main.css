@@ -1,0 +1,19 @@
+body{
+	background-image: url(../images/vintage-concrete.png);
+}
+.kotak{
+	height:430px;
+	width: 430px;
+	background-color: #efefef;
+	margin:30px auto;
+	padding: 20px;
+}
+.kotak h1 {
+	font-family: "Lucida Console", Monaco, monospace;
+	text-align: center;
+
+}
+.kotak h3{
+	font-family: Symbol, sans-serif;
+	text-align: center;
+}

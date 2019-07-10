@@ -1,0 +1,21 @@
+#pesan
+{
+	font-size: 16px;
+	color: red;
+	font-style:italic;
+}
+#bgputih{
+	background-color: white;
+}
+.fotoprofil{
+
+	height: 130px; 
+	background-color: Dimgray;
+	padding-left: 50px;
+}
+.fotoprofil img{
+	width: 120px;
+	margin:10px auto; 
+
+}
+
